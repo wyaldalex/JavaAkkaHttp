@@ -1,5 +1,5 @@
 import akka.actor.typed.ActorSystem;
-import akka.actor.typed.scaladsl.Behaviors;
+import akka.actor.typed.javadsl.Behaviors;
 
 public class SimpleSynchronousServer {
 
